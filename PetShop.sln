@@ -63,8 +63,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Membership", "Membership\Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableCacheDependency", "TableCacheDependency\TableCacheDependency.csproj", "{F55AB6DD-E0DC-4966-8E6A-B89E161C964F}"
 EndProject
-Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzurePetShop", "AzurePetShop\AzurePetShop.ccproj", "{0F5D3EED-393D-41E5-8B18-CE37A435DEEB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShopWebRole", "PetShopWebRole\PetShopWebRole.csproj", "{C3826450-F78F-4759-9654-715D1F9AE965}"
 EndProject
 Global
@@ -287,16 +285,6 @@ Global
 		{F55AB6DD-E0DC-4966-8E6A-B89E161C964F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F55AB6DD-E0DC-4966-8E6A-B89E161C964F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{F55AB6DD-E0DC-4966-8E6A-B89E161C964F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{0F5D3EED-393D-41E5-8B18-CE37A435DEEB}.Debug|.NET.ActiveCfg = Debug|Any CPU
-		{0F5D3EED-393D-41E5-8B18-CE37A435DEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F5D3EED-393D-41E5-8B18-CE37A435DEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F5D3EED-393D-41E5-8B18-CE37A435DEEB}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{0F5D3EED-393D-41E5-8B18-CE37A435DEEB}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{0F5D3EED-393D-41E5-8B18-CE37A435DEEB}.Release|.NET.ActiveCfg = Release|Any CPU
-		{0F5D3EED-393D-41E5-8B18-CE37A435DEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F5D3EED-393D-41E5-8B18-CE37A435DEEB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0F5D3EED-393D-41E5-8B18-CE37A435DEEB}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{0F5D3EED-393D-41E5-8B18-CE37A435DEEB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{C3826450-F78F-4759-9654-715D1F9AE965}.Debug|.NET.ActiveCfg = Debug|Any CPU
 		{C3826450-F78F-4759-9654-715D1F9AE965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C3826450-F78F-4759-9654-715D1F9AE965}.Debug|Any CPU.Build.0 = Debug|Any CPU
