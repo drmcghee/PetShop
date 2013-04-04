@@ -47,7 +47,7 @@
                     &nbsp;</td>
                 <td class="welcome">
                     Welcome to the world of animals
-                </td>
+                    2013</td>
                 <td bgcolor="#FFFFFF">
                     &nbsp;</td>
                 <td>

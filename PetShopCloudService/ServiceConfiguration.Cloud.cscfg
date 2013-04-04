@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="PetShopCloudService" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="3" osVersion="*" schemaVersion="2012-10.1.8">
+  <Role name="PetShopWebRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=davidmcgstorebay;AccountKey=1g4c6yjWXs/+3XZxcV3ZvtvAzyiis3uMzUunKEUd2KXM7CKdBARbdoexwiP9xSuLbj2BUqlb93/DyXf3KQTnrQ==" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>
