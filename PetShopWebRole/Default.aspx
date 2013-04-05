@@ -45,9 +45,8 @@
                     &nbsp;</td>
                 <td bgcolor="#FFFFFF">
                     &nbsp;</td>
-                <td class="welcome">
-                    Welcome to the world of animals
-                    2013</td>
+                <td class="welcome" style="color: #0000FF">
+                    Welcome to the world of animals</td>
                 <td bgcolor="#FFFFFF">
                     &nbsp;</td>
                 <td>
